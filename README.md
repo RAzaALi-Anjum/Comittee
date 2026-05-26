@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# Comittee
+A smart committee management mobile application that allows users to create committees, automatically assign member turns, handle initiator approvals, manage payments, and maintain an admin-controlled wallet system.
+>>>>>>> 5ead13de1f8768c1594400af5de722df8ef0a255
