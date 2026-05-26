@@ -1,0 +1,31 @@
+{
+  "name": "create_committee_backend",
+  "version": "1.0.0",
+  "description": "Secure backend for Digital Committee App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "create_committee": "file:..",
+    "dotenv": "^16.4.5",
+    "expo-location": "~19.0.8",
+    "express": "^4.21.0",
+    "express-rate-limit": "^7.4.0",
+    "express-validator": "^7.2.0",
+    "firebase-admin": "^12.6.0",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^8.0.8",
+    "openai": "^6.33.0",
+    "pdf-parse": "^2.4.5",
+    "react-native-maps": "1.26.20",
+    "tesseract.js": "^5.1.1"
+  }
+}

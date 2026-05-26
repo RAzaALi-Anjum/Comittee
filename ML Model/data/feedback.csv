@@ -1,0 +1,52 @@
+user_id,committee_id,item_id,feedback_text,rating
+U1,C1,I1,"Excellent committee management very professional and organized",5
+U2,C1,I1,"Great experience the initiator was very helpful and transparent",5
+U3,C1,I1,"Good service overall satisfied with the committee process",4
+U4,C1,I1,"Average experience nothing special but okay",3
+U5,C1,I2,"Bad experience poor communication and delayed payments",1
+U6,C1,I2,"Terrible service the initiator was unprofessional and rude",1
+U7,C1,I2,"Not satisfied with the committee very disorganized",2
+U8,C2,I3,"Outstanding luxury design loved the work done by this team",5
+U9,C2,I3,"Amazing interior work exceeded all my expectations truly wonderful",5
+U10,C2,I3,"Very good quality work professional team and on time delivery",4
+U11,C2,I3,"Fantastic design sensibility and attention to detail highly recommended",5
+U12,C2,I4,"Poor finishing and low quality materials used disappointed",2
+U13,C2,I4,"Worst experience ever the work was incomplete and shabby",1
+U14,C2,I4,"Not good at all the committee was a complete waste of time",1
+U15,C3,I5,"Reliable and trusted initiator payments always on time",5
+U16,C3,I5,"Honest and transparent management very happy with the results",5
+U17,C3,I5,"Good committee well managed and punctual with schedules",4
+U18,C3,I5,"Satisfactory experience could be better but overall decent",3
+U19,C3,I6,"Fraud committee the initiator cheated everyone avoid at all costs",1
+U20,C3,I6,"Scam alert this committee is fake and the initiator is dishonest",1
+U21,C3,I6,"Delayed payments and unreliable initiator very frustrating",2
+U22,C4,I7,"Best committee I have ever joined everything was perfect",5
+U23,C4,I7,"Wonderful experience from start to finish highly professional",5
+U24,C4,I7,"Nice work and good management recommend this to everyone",4
+U25,C4,I7,"Pretty good overall the initiator handled things well",4
+U26,C4,I8,"Missing payments and no accountability terrible management",1
+U27,C4,I8,"Very bad the initiator disappeared after collecting money",1
+U28,C4,I8,"Horrible experience stolen money and fake promises",1
+U29,C5,I9,"Professional and efficient committee loved the experience",5
+U30,C5,I9,"Very well organized and the initiator was extremely helpful",5
+U31,C5,I9,"Good quality service and timely updates throughout the process",4
+U32,C5,I9,"Decent experience but room for improvement in communication",3
+U33,C5,I10,"Unsatisfied poor quality work not recommended at all",2
+U34,C5,I10,"Below average the committee was poorly managed and chaotic",2
+U35,C5,I10,"Bad service late delivery and unprofessional behavior",1
+U36,C6,I11,"Exceptional committee everything ran smoothly and on schedule",5
+U37,C6,I11,"Top notch service the best initiator I have worked with",5
+U38,C6,I11,"Great transparency and communication throughout the process",4
+U39,C6,I11,"Really good experience satisfied with the outcome overall",4
+U40,C6,I12,"Average work nothing impressive but not terrible either",3
+U41,C6,I12,"Could be better the finishing was not up to expectations",2
+U42,C7,I13,"Absolutely amazing committee highly organized and trustworthy",5
+U43,C7,I13,"Brilliant work by the initiator everything was handled perfectly",5
+U44,C7,I13,"Very happy with this committee payments were always on time",5
+U45,C7,I14,"Disappointed with the service quality was very low",2
+U46,C7,I14,"Not worth it the committee did not deliver what was promised",2
+U47,C8,I15,"Good committee decent management and fair process",4
+U48,C8,I15,"Okay experience nothing extraordinary but functional",3
+U49,C8,I16,"Terrible the worst committee experience I have ever had",1
+U50,C8,I16,"Complete disaster avoid this committee at all costs",1
+TEST01,C1,I1,amazing professional work and excellent service,5.0
